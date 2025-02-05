@@ -40,7 +40,7 @@ int main()
 	
 	//	紀錄當前配對狀況
 	map<string, string> match = {
-		{"Sophia",	"====="},
+	    {"Sophia",	"====="},
 	    {"Sarah",	"====="},
 	    {"Jessica",	"====="},
 	    {"Emily",	"====="},
